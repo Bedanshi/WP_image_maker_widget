@@ -1,7 +1,6 @@
 <?php
 /**
- * Plugin Name: WP Image Rotate
- * Description: A custom Elementor widget that displays "Hello World"
+ * Plugin Name: WP Image/Video Maker
  * Version: 1.0
  * Author: Bedanshi Subedi
  */
